@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "327446803421",
+    "project_id": "constraktor",
+    "storage_bucket": "constraktor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327446803421:android:cbbcec3e987b19b3da7c34",
+        "android_client_info": {
+          "package_name": "com.example.constraktor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327446803421-5jlt7mo00maei2rk98u4oq0nkohho7qv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr11I6VqKOzB42DGvH89x5RKsBpL3CSvo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "327446803421-5jlt7mo00maei2rk98u4oq0nkohho7qv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
