@@ -160,7 +160,3 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
-fairuz.maulana@binus.ac.id
-dan
-avds@binus.ac.id
